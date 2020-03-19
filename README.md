@@ -1,5 +1,5 @@
 <h1 align="center">ארץ עיר</h1>
-<h3 align="center">an hebrew game for kids</h3>
+<h3 align="center">hebrew iOS game</h3>
 <p align="center">
 <img src="/images/icon1.png">
 </p>
