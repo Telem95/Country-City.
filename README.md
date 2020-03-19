@@ -14,7 +14,7 @@
 <p align="center">
 <b>Technologies used</b>
 </br>
-Swift, Lottie animations, Socket.io, Google ads
+Swift, Lottie animations, Socket.io
 </p>
 <p align="center">
 <a href="https://apps.apple.com/us/app/%D7%90%D7%A8%D7%A5-%D7%A2%D7%99%D7%A8/id1501330526"><img src="/images/apple-store-button.png" alt="app stote link"></a>
